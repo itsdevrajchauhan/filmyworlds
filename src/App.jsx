@@ -8,7 +8,7 @@ const App =() =>{
   return(
     <div className ='app'>
    <Navbar/>
-    <main> Main Contnet</main>
+    <main> </main>
     <MovieList/>
    
 
